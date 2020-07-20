@@ -128,7 +128,7 @@
     "karma-jasmine-html-reporter": "^1.4.0",
     "license-checker": "^20.1.0",
     "minimatch": "^3.0.4",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "npm-registry-client": "8.6.0",
     "ora": "^4.0.2",
     "pacote": "10.2.1",
